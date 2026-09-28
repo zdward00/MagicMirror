@@ -1,0 +1,22 @@
+{
+  "anytime": [
+    "Howdy!",
+    "Lookin good!",
+    "Brilliant!"
+    ],
+  "morning": [
+    "Good morning, sunshine!",
+    "Let's have a good day.",
+    "Start the day off right!"
+  ],
+  "afternoon": [
+    "Hitting your stride!",
+    "How's it hanging?",
+    "Don't stop now!"
+  ],
+  "evening": [
+    "Time to rest and relax.",
+    "Take a moment to unwind.",
+    "Sweet dreams."
+  ]
+}
